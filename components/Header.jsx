@@ -26,7 +26,7 @@ const Header = () => {
                     : <Image src='https://stape-web.github.io/Img/user.png' width={32} height={32} onClick={() => signIn()} />
                 }
             </div>
-        </header >
+        </header>
     )
 }
 
