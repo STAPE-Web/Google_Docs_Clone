@@ -77,6 +77,6 @@ export default function New() {
             />
             {dropDown ? <DropDown items={items} setFontFamily={setFontFamily} /> : null}
             <Editor fontFamily={fontFamily} size={size} bold={bold} italic={italic} underline={underline} position={position} />
-        </div >
+        </div>
     )
 }
