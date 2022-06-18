@@ -88,7 +88,7 @@ const Tools = ({ fontFamily, setDropDown, dropDown, setSize, size, setBold, bold
                 </div>
             ))
             }
-        </div >
+        </div>
     )
 }
 
