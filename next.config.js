@@ -1,6 +1,5 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {
-  reactStrictMode: true,
+module.exports = {
+  images: {
+    domains: ['stape-web.github.io', 'lh3.googleusercontent.com']
+  }
 }
-
-module.exports = nextConfig
