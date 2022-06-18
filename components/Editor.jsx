@@ -18,7 +18,7 @@ const Editor = ({ fontFamily, size, bold, italic, underline, position }) => {
                 placeholder='Type @ to insert'
                 wrap='false'
             ></textarea>
-        </div >
+        </div>
     )
 }
 
