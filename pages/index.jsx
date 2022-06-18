@@ -82,6 +82,6 @@ export default function Home() {
         </div>
         : <h1>Please sign in</h1>
       }
-    </div >
+    </div>
   )
 }
