@@ -8,7 +8,7 @@ const DropDown = ({ items, setFontFamily }) => {
                     {item}
                 </div>
             ))}
-        </div >
+        </div>
     )
 }
 
